@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game with a restart button
 
 A simple Snake game in Java, utilizing only built-in components: Java Swing for displaying the game and Java AWT for handling action events.
 
